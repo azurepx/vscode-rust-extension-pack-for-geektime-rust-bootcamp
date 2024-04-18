@@ -23,7 +23,7 @@ This extension pack is for the geektime rust bootcamp, the development environme
 
 ## How to use it?
 
-Just nstall it and enjoy!
+Just install it and enjoy!
 
 ## Contribution
 
