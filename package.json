@@ -1,0 +1,15 @@
+{
+  "name": "rust-extension-pack-for-geektime-rust-bootcamp",
+  "displayName": "rust extension pack for geektime rust bootcamp",
+  "description": "A collection of rust extensions for the geektime rust bootcamp",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
