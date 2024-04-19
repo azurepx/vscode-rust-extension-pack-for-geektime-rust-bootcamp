@@ -1,7 +1,24 @@
 {
+  "scripts": {
+    "build": "vsce package"
+  },
   "name": "rust-extension-pack-for-geektime-rust-bootcamp",
   "displayName": "rust extension pack for geektime rust bootcamp",
   "description": "A collection of rust extensions for the geektime rust bootcamp",
+  "publisher": "azurepx",
+  "author": {
+    "name": "azurepx",
+    "email": "azurepan213@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azurepx/vscode-rust-extension-pack-for-geektime-rust-bootcamp"
+  },
+  "keywords": [
+    "rust",
+    "geektime",
+    "bootcamp"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -9,7 +26,22 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "publisher.extensionName"
-  ]
+  "extensionPack": [
+    "serayuzgur.crates",
+    "tamasfe.even-better-toml",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "github.copilot",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "rust-lang.rust-analyzer",
+    "hdevalke.rust-test-lens",
+    "swellaby.vscode-rust-test-adapter",
+    "wayou.vscode-todo-highlight",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-yaml"
+  ],
+  "icon": "images/icon128x128.png"
 }
