@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package",
+    "publish": "vsce publish"
   },
   "name": "rust-extension-pack-for-geektime-rust-bootcamp",
   "displayName": "rust extension pack for geektime rust bootcamp",
