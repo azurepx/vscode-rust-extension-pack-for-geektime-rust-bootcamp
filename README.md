@@ -19,7 +19,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 This extension pack is for the geektime rust bootcamp, the development environment is required by the [bootcamp](https://github.com/tyr-rust-bootcamp/template?tab=readme-ov-file#%E5%AE%89%E8%A3%85-rust).
 
-![alt text](<Screenshot 2024-04-18 at 20.41.32.png>)
+![vscode packs](./images/vscode-packs.png)
 
 ## How to use it?
 
