@@ -28,3 +28,7 @@ Just install it and enjoy!
 ## Contribution
 
 Currently not available.
+
+## Reference:
+
+https://www.kenmuse.com/blog/creating-vs-code-extension-packs/
